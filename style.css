@@ -200,6 +200,11 @@ ul {
   opacity: 0.6;
 }
 
+.signature {
+  display: block;
+  text-align: center;
+}
+
 @media (max-width: 540px) {
   .toggle-button {
     display: flex;
